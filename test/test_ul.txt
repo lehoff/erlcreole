@@ -1,0 +1,26 @@
+You can use lists, start it at the first column for now, please...
+
+unnumbered lists are like
+* item a
+* item b
+* **bold item c**
+
+* pap
+** ged
+** monkey
+* joe
+** jimmy
+
+blank space is also permitted before lists like:
+  *   item a
+ * item b
+* item c
+ ** item c.a
+
+* a 
+** a.a
+*** a.a.a
+** a.b
+* b
+*** b..a
+* c

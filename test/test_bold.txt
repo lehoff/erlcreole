@@ -1,0 +1,12 @@
+You can make things **bold** or //italic// or **//both//** or //**both**//.
+
+
+Character formatting extends across line breaks: **bold,
+this is still bold. This line deliberately does not end in star-star.
+
+Not bold. Character formatting does not cross paragraph boundaries.
+
+And **
+should be bold.
+Just like this.
+

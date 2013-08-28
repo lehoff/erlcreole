@@ -1,0 +1,16 @@
+You can use [[internal links]] or [[http://www.wikicreole.org|external links]],
+give the link a [[internal links|different]] name.
+
+Here's another sentence: This wisdom is taken from [[Ward Cunningham's]]
+[[http://www.c2.com/doc/wikisym/WikiSym2006.pdf|Presentation at the Wikisym 06]]. 
+
+Here's a external link without a description: [[http://www.wikicreole.org]]
+
+External link with description [[http://erlang.org|Home of Erlang]]
+
+Be careful that italic links are rendered properly:  //[[http://my.book.example/|My Book Title]]// 
+
+Free links without braces should be rendered as well, like http://www.wikicreole.org/ and http://www.wikicreole.org/users/~example. 
+
+Creole1.0 specifies that http://bar and ftp://bar should not render italic,
+something like foo://bar should render as italic.

@@ -1,0 +1,14 @@
+You can use nowiki syntax if you would like do stuff like this:
+
+{{{
+Guitar Chord C:
+
+||---|---|---|
+||-0-|---|---|
+||---|---|---|
+||---|-0-|---|
+||---|---|-0-|
+||---|---|---|
+}}}
+
+You can also use it inline nowiki {{{ in a sentence }}} like this.

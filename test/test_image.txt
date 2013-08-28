@@ -1,0 +1,15 @@
+This should be a flower with the ALT text "this is a flower" if your wiki supports ALT text on images:
+
+{{Red_Flower.jpg|this is a flower}}
+
+No alt text:
+{{Red_Flower.jpg}}
+
+Bold and italics in alt text.
+{{Red_Flower.jpg|my **bold** flower is //italic//, **//oh, yeah//**}}
+
+From [[wikicreole.org]]
+{{myimage.jpg}}
+{{myimage.jpg|this is the alt text for my image}}
+[[some link|{{myimage.jpg}}]] - if you click on the image, will goto "some link"
+[[http://example.com/|{{myimage.jpg}}]] - same as above: picture links to url

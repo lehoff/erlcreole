@@ -1,0 +1,3 @@
+|= Header title               |= Another header title     |
+| {{{ //not italic text// }}} | {{{ **not bold text** }}} |
+| //italic text// | **  bold text **          |

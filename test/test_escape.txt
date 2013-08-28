@@ -1,0 +1,8 @@
+= Escapes =
+Normal Link: http://wikicreole.org/ - now same link, but escaped:  ~http://wikicreole.org/ 
+
+Normal asterisks: ~**not bold~**
+
+a tilde alone: ~
+
+a tilde escapes itself: ~~xxx

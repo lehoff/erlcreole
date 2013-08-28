@@ -1,0 +1,1 @@
+Not bold. Character formatting does not cross paragraph boundaries.

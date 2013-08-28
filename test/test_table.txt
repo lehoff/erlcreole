@@ -1,0 +1,6 @@
+Tables are done like this:
+
+|=header col1|=header col2| 
+|col1|col2| 
+|you         |can         | 
+|also        |align\\ it. 
